@@ -1,0 +1,20 @@
+убить процсс
+- ps -a
+-ps -aux
+- kill [pid]
+- | grep firefox
+отключение сетевого подключения
+- ip
+- ifconfig 
+создание хтмл файл
+- echo "jjjkjlk" >> name.html
+
+цпу инфо
+- lscpu | grep
+вывести все пакеты где есть либ и версии 
+- dpkg -l
+построить карту сети
+- ping 
+
+
+- chmod +x  
