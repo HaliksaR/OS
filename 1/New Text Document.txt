@@ -18,3 +18,22 @@
 
 
 - chmod +x  
+
+
+
+lab 2
+
+где хранятся процессы 
+папка proc <pid> / stat 
+выводит pid name
+fopen
+
+
+read write
+
+
+узнать размер файлов в директории
+opendir(path)
+lstat размер в мб
+
+робачевский

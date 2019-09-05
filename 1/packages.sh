@@ -1,6 +1,6 @@
 #!/bin/bash
 read -p "Name of package: " name
-read -p "Version of package: " version
+read -p "Version of package: " vers
 printf "\n"
-dpkg -l | egrep -w "$name|$version"
+dpkg -l | egrep -w "$name & $vers"
 printf "\nDone"
